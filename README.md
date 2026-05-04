@@ -39,7 +39,7 @@
 
 Mortgage packets are dense, multi-document PDFs — loan agreements, lender fee sheets, pay slips, tax forms, and insurance policies — often 50+ pages stapled into a single file. Extracting a specific fee, salary figure, or contract clause means manually hunting through pages of legalese and tables where column alignment is the only thing giving numbers meaning.
 
-| Pain Point | How MortgageIQ Solves It |
+| Pain Point | How SmartMortgage Solves It |
 |---|---|
 | Slow manual review | Automates PDF parsing, OCR, and retrieval end-to-end |
 | Inconsistent extraction | Structure-aware chunking ensures context retention across pages |
