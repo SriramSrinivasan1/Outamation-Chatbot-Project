@@ -1,0 +1,27 @@
+# MortgageIQ — RAG Pipeline Dependencies
+# Python 3.10+
+# Run on Google Colab T4 GPU or any CUDA-capable machine
+
+# Core ML / LLM
+torch>=2.0.0
+llama-cpp-python==0.2.90   # Install with CUDA 12.3 wheel (see README)
+sentence-transformers>=2.7.0
+
+# Vector store
+faiss-cpu>=1.7.4            # Use faiss-gpu for GPU-accelerated search
+
+# PDF & OCR
+pymupdf>=1.23.0             # fitz — text extraction + find_tables()
+pypdf2>=3.0.1
+pytesseract>=0.3.10
+Pillow>=10.0.0
+
+# UI
+gradio>=4.0.0
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
+
+# System dependency (install separately)
+# sudo apt-get install tesseract-ocr
