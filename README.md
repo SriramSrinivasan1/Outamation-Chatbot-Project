@@ -7,7 +7,7 @@
 ![Colab](https://img.shields.io/badge/Runtime-Google_Colab_T4-F9AB00?logo=googlecolab&logoColor=white)
 ![License](https://img.shields.io/badge/License-Portfolio-lightgrey)
 
-> **Extern × Outamation · Aug – Oct 2025**  
+> **Extern × Outamation**  
 > A fully local Retrieval-Augmented Generation (RAG) pipeline that ingests multi-document mortgage PDFs, intelligently classifies each document, preserves tabular structure, and delivers grounded, citation-backed answers — no API keys required.
 
 ## 🎬 Demo
